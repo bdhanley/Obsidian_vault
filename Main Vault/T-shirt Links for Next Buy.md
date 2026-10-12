@@ -6,3 +6,7 @@
 * https://www.teepublic.com/t-shirt/33974225-sequential-circuits-prophet-5-rev-3
 * https://www.teepublic.com/t-shirt/81601935-sequentials-circuits
 * https://www.teepublic.com/t-shirt/83884370-integrated-circuit-patent-microchip-electronic-cir
+* https://www.teepublic.com/t-shirt/5560829-dead-matter-and-bones
+* https://www.teepublic.com/t-shirt/77908825-alucard-90s-pop-movie-poster
+* https://www.teepublic.com/t-shirt/67820304-dog
+* https://www.teepublic.com/t-shirt/2627507-leave-the-city-for-the-sea
