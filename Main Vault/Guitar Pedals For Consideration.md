@@ -1,0 +1,13 @@
+- Strymon Deco Tape Delay
+- Red panda bitmap 2
+- solofx lysis
+- red panda tensor
+- red panda particle 2
+- shallow water
+- strymon El capistan
+- ~~earth Quaker dispatch~~
+- walrus audio slo reverb
+- ~~OBNE Dark Star~~
+- SolidGoldFX Fuzzbox
+- OBNE pardner
+- OBNE parting

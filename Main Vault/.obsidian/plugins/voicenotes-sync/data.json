@@ -1,0 +1,28 @@
+{
+  "automaticSync": true,
+  "syncTimeout": 180,
+  "downloadAudio": false,
+  "syncDirectory": "voicenotes",
+  "deleteSynced": false,
+  "reallyDeleteSynced": false,
+  "todoTag": "Voicenote",
+  "filenameDateFormat": "YYYY-MM-DD",
+  "frontmatterTemplate": "duration: {{duration}}\ncreated_at: {{created_at}}\nupdated_at: {{updated_at}}\n{{tags}}",
+  "noteTemplate": "# {{ title }}\n\nDate: {{ date }}\n\n{% if my_notes %}\n## My notes\n\n{{ my_notes }}\n{% endif %}\n\n{% if meeting_report %}\n## Meeting Report\n\n{{ meeting_report }}\n{% endif %}\n\n{% if summary %}\n## Summary\n\n{{ summary }}\n{% endif %}\n\n{% if points %}\n## Main points\n\n{{ points }}\n{% endif %}\n\n{% if attachments %}\n## Attachments\n\n{{ attachments }}\n{% endif %}\n\n{% if tidy %}\n## Tidy Transcript\n\n{{ tidy }}\n\n{% else %}\n## Transcript\n\n{{ transcript }}\n{% endif %}\n\n{% if embedded_audio_link %}\n{{ embedded_audio_link }}\n{% endif %}\n\n{% if audio_filename %}\n[[{{ audio_filename }}|Audio]]\n{% endif %}\n\n{% if todo %}\n## Todos\n\n{{ todo }}\n{% endif %}\n\n{% if email %}\n## Email\n\n{{ email }}\n{% endif %}\n\n{% if blog %}\n## Blog\n\n{{ blog }}\n{% endif %}\n\n{% if tweet %}\n## Tweet\n\n{{ tweet }}\n{% endif %}\n\n{% if custom %}\n## Others\n\n{{ custom }}\n{% endif %}\n\n{% if tags %}\n## Tags\n\n{{ tags }}\n{% endif %}\n\n{% if related_notes %}\n# Related notes\n\n{{ related_notes }}\n{% endif %}\n\n{% if parent_note %}\n## Parent note\n\n- {{ parent_note }}\n{% endif %}\n\n{% if subnotes %}\n## Subnotes\n\n{{ subnotes }}\n{% endif %}",
+  "filenameTemplate": "{{date}} {{title}}",
+  "excludeTags": [
+    "Todo"
+  ],
+  "tagFilterMode": "exclude",
+  "dateFormat": "YYYY-MM-DD",
+  "useCustomChangedAtProperty": false,
+  "customChangedAtProperty": "created_at",
+  "deletedLocalRecordingIds": [],
+  "token": "71c396f0ec844197c2234a2b5e8979d25db2c44f31b79494b2dd408fbbb27443",
+  "cachedUserInfo": {
+    "email": "bdhanley@protonmail.com",
+    "name": "Brian",
+    "photo_url": null
+  },
+  "lastSyncedNoteUpdatedAt": "2026-10-08T11:49:30.000Z"
+}

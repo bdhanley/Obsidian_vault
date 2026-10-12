@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "072de29516992607",
+    "type": "split",
+    "children": [
+      {
+        "id": "52ab977dd9a1c138",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff68758bc2a8dfdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Health/Retatrutide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Retatrutide"
+            }
+          },
+          {
+            "id": "8ab4ceb786dece60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guitar Pedals For Consideration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guitar Pedals For Consideration"
+            }
+          },
+          {
+            "id": "aaa49711073a2f54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "T-shirt Links for Next Buy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "T-shirt Links for Next Buy"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9f21c8ff5cbe888",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b03e611bf209a2a8",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "9c8d34eee6c62b01",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "6f6815324bbb57e7",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "d8bfb35c4ad334ac",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "72258bf0f5eff606",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3886cf78355e4045",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f3dc178e12fdfab4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Home.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "4682d7ee3adedfef",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Home.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "5cd55ca20389ccd5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Home.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "28385442ceed7596",
+        "type": "leaf",
+        "state": {
+          "type": "reminder-list",
+          "state": {},
+          "icon": "clock",
+          "title": "Reminders"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "aaa49711073a2f54",
+  "lastOpenFiles": [
+    "T-shirt Links for Next Buy.md",
+    "Guitar Pedals For Consideration.md",
+    "Personal Health/Retatrutide.md",
+    "voicenotes/2026-10-08 To-dos email Chase Bliss pedal repair, code reviews, steam clean bed, laundry.md",
+    "voicenotes/2026-10-08 Plan to remove basement bed and clean mattress upstairs.md",
+    "voicenotes/2026-09-15 Rolling Stones and Pina Black recommendation seek Tome.md",
+    "Home.md",
+    "2026-08-18.md",
+    "Hobbies",
+    "Personal Health",
+    "2026-08-21.md",
+    "voicenotes/2026-08-25 Vet visit Jackie dewormer, vomiting watch, fecal sample follow-up.md",
+    "Untitled.base",
+    "voicenotes/2026-09-06 Ritatracide dosing schedule start 2 mg Sept 4, increase to 3 mg Oct 4.md",
+    "voicenotes/2026-09-04 First RETA dose 2 mg start of four-month plan.md",
+    "voicenotes/2026-08-25 Plan to clean basement by bagging cables and clearing containers.md",
+    "voicenotes/2026-08-25 Remove empty cardboard boxes and discard 3D printer plastic waste.md",
+    "voicenotes/2026-08-25 Quick bedroom cleanup plan bed items, bag dirty clothes, then kitchen.md",
+    "voicenotes/2026-08-28 Tirzepatide reconstitution math 30 mg with 1.2 mL dosing plan.md",
+    "voicenotes/2026-08-25 Thanks to Aaron.md",
+    "voicenotes/2026-08-22 Slept most of the day; need to work on Jackie’s basement.md",
+    "voicenotes/2026-08-21 Jenkins migration to new VM with K3s volumes, TLS, and ingress updates.md",
+    "voicenotes/2026-08-21 Plan to clean basement floor in stages and request PTO for safety.md",
+    "voicenotes/2026-08-20 Plan to build Rust and Slint home wall panel UI.md",
+    "voicenotes/2026-08-19 Debugging Jenkins login failure direct vs proxy with OIDCEntra SSO.md",
+    "voicenotes/2026-08-19 Testing Make webhook automation.md",
+    "voicenotes/2026-08-19 Task list post chat, work on proposal, do shift, check on guy.md",
+    "voicenotes/2026-08-19 Jenkins Active Directory plugin LDAP edge-case causing API token errors.md",
+    "voicenotes/2026-08-17 Breath of the Wild-style windy grass shader using vertex colors and noise.md",
+    "voicenotes"
+  ]
+}
